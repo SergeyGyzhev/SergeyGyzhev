@@ -15,6 +15,10 @@
 <img src="https://komarev.com/ghpvc/?username=SergeyGyzhev&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
